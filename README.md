@@ -32,8 +32,7 @@ new_file = file_name + ".ransomwaretroll"
 new_file = open(f'{new_file}','wb')
 new_file.write(crypto_data)
 new_file.close()
-`
-- URL para clone: http://www.facebook.com
+
 
 ### Decrypter
 
@@ -66,6 +65,12 @@ new_file.close()
 
 ![Resultado 2](./screenshot2.png)
 
+Repositório Git
+ 
+O Git é um conceito essencial no mercado de trabalho atualmente, por isso sempre reforçamos sua importância em nossa metodologia educacional. Por isso, todo código-fonte desenvolvido durante este conteúdo pode ser encontrado no seguinte endereço para que você possa consultá-lo a qualquer momento:
+ 
+https://github.com/cassiano-dio/cibersecurity-desafio-ransomware
+ 
 
 ### Follow Me
 
