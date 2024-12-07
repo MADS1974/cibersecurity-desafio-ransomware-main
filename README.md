@@ -60,11 +60,12 @@ new_file = open(f'{new_file}', "wb")
 new_file.write(decrypt_data)
 new_file.close()
 
-### Resutados
+### Resultados
 
-![Alt text](./screenshot1 "Optional title")
+![Resultado 1](./screenshot1.png)
 
-![Alt text](./screenshot2 "Optional title")
+![Resultado 2](./screenshot2.png)
+
 
 ### Follow Me
 
